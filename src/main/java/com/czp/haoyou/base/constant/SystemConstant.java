@@ -1,4 +1,4 @@
-package com.czp.haoyou.common.constant;
+package com.czp.haoyou.base.constant;
 
 public interface SystemConstant {
 

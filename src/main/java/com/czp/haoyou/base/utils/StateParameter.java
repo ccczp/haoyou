@@ -1,4 +1,4 @@
-package com.czp.haoyou.common.utils;
+package com.czp.haoyou.base.utils;
 
 public class StateParameter {
 

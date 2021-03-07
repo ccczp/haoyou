@@ -1,7 +1,7 @@
-package com.czp.haoyou.common.controller;
+package com.czp.haoyou.base.controller;
 
 
-import com.czp.haoyou.common.utils.StateParameter;
+import com.czp.haoyou.base.utils.StateParameter;
 import org.springframework.ui.ModelMap;
 
 public abstract class BaseController {
